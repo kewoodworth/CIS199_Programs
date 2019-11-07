@@ -1,0 +1,20 @@
+J:\CIS 199\Program2\Program2\obj\Debug\Program2.csprojResolveAssemblyReference.cache
+J:\CIS 199\Program2\Program2\obj\Debug\Program2.Program2.resources
+J:\CIS 199\Program2\Program2\obj\Debug\Program2.Properties.Resources.resources
+J:\CIS 199\Program2\Program2\obj\Debug\Program2.csproj.GenerateResource.Cache
+J:\CIS 199\Program2\Program2\obj\Debug\Program2.csproj.CoreCompileInputs.cache
+J:\CIS 199\Program2\Program2\bin\Debug\Program2.exe.config
+J:\CIS 199\Program2\Program2\bin\Debug\Program2.exe
+J:\CIS 199\Program2\Program2\bin\Debug\Program2.pdb
+J:\CIS 199\Program2\Program2\obj\Debug\Program2.exe
+J:\CIS 199\Program2\Program2\obj\Debug\Program2.pdb
+J:\CIS 199\Program2 - OG and Zip\Program2\Program2\bin\Debug\Program2.exe.config
+J:\CIS 199\Program2 - OG and Zip\Program2\Program2\bin\Debug\Program2.exe
+J:\CIS 199\Program2 - OG and Zip\Program2\Program2\bin\Debug\Program2.pdb
+J:\CIS 199\Program2 - OG and Zip\Program2\Program2\obj\Debug\Program2.Program2.resources
+J:\CIS 199\Program2 - OG and Zip\Program2\Program2\obj\Debug\Program2.Properties.Resources.resources
+J:\CIS 199\Program2 - OG and Zip\Program2\Program2\obj\Debug\Program2.csproj.GenerateResource.Cache
+J:\CIS 199\Program2 - OG and Zip\Program2\Program2\obj\Debug\Program2.csproj.CoreCompileInputs.cache
+J:\CIS 199\Program2 - OG and Zip\Program2\Program2\obj\Debug\Program2.exe
+J:\CIS 199\Program2 - OG and Zip\Program2\Program2\obj\Debug\Program2.pdb
+J:\CIS 199\Program2 - OG and Zip\Program2\Program2\obj\Debug\Program2.csprojAssemblyReference.cache
